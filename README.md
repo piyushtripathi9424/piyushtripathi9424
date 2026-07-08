@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+Progress;DSA+Learner+%F0%9F%A7%A0;Building+Projects+and+Learning+Everyday+%F0%9F%9A%80;Debugging+is+my+Superpower+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+Progress;DSA+Learner+🧠;Building+Projects+and+Learning+Everyday+🚀;Debugging+is+my+Superpower+🔥" />
 
 </div>
 
@@ -19,10 +19,10 @@
 💡 I enjoy understanding **how things work behind the scenes** rather than just making them work.
 
 🤝 Open to collaborating on:
-- 🌐 Web Development Projects  
-- 🧠 DSA & Problem Solving  
-- ⚙️ Backend Development Fundamentals  
-- 🚀 Beginner-Friendly Open Source Projects  
+- 🌐 Web Development Projects
+- 🧠 DSA & Problem Solving
+- ⚙️ Backend Development Fundamentals
+- 🚀 Beginner-Friendly Open Source Projects
 
 ---
 
@@ -32,7 +32,7 @@
 ✔️ Improving DSA Problem Solving  
 ✔️ Writing Cleaner & Scalable Code  
 ✔️ Understanding Large Codebases  
-✔️ Improving Git & GitHub Workflow  
+✔️ Improving Git & GitHub Workflow
 
 ---
 
@@ -41,7 +41,7 @@
 💻 **C++ & DSA**  
 ⚡ **JavaScript Fundamentals**  
 🌐 **Node.js & Express.js Basics**  
-🔧 **Git & GitHub**  
+🔧 **Git & GitHub**
 
 ---
 
@@ -111,6 +111,20 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 ### 🎬 Movie App
@@ -130,7 +144,7 @@ Backend-focused projects using **Node.js + Express.js + MongoDB**.
 🎯 Build impressive Full Stack Projects  
 🎯 Contribute to Open Source  
 🎯 Crack internships & software roles  
-🎯 Become a better problem solver every day  
+🎯 Become a better problem solver every day
 
 ---
 
