@@ -125,23 +125,12 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🎬 Movie App
-Dynamic movie browsing UI with responsive design and movie data rendering.
-
-### 🧠 DSA Practice
-Solving problems on recursion, backtracking, sorting, stacks, queues, linked lists, and more.
-
-### 🌐 Full Stack Applications
-Backend-focused projects using **Node.js + Express.js + MongoDB**.
-
----
-
 # 📈 2026 Goals
 
 🎯 Strengthen DSA for interviews  
+🎯 LFX
 🎯 Build impressive Full Stack Projects  
+🎯 GSOC
 🎯 Contribute to Open Source  
 🎯 Crack internships & software roles  
 🎯 Become a better problem solver every day
