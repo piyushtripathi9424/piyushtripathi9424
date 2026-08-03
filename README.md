@@ -2,6 +2,14 @@
 
 <div align="center">
 
+<a href="https://cloud.layer5.io/user/19831036-9493-4741-8f28-6a9c6a7a51d4?tab=badges&badge=certified-meshery-contributor">
+  <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" width="180" />
+</a>
+
+### 🏅 Certified Meshery Contributor
+
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+Progress;DSA+Learner+🧠;Building+Projects+and+Learning+Everyday+🚀;Debugging+is+my+Superpower+🔥" />
 
 </div>
@@ -128,9 +136,9 @@
 # 📈 2026 Goals
 
 🎯 Strengthen DSA for interviews  
-🎯 LFX
+🎯 LFX  
 🎯 Build impressive Full Stack Projects  
-🎯 GSOC
+🎯 GSoC  
 🎯 Contribute to Open Source  
 🎯 Crack internships & software roles  
 🎯 Become a better problem solver every day
