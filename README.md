@@ -10,7 +10,7 @@
   <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" width="180"/>
 </a>
 
-<h3>🏅 Certified Meshery Contributor</h3>
+<div><a href="https://cloud.layer5.io/user/19831036-9493-4741-8f28-6a9c6a7a51d4?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </div>
 
