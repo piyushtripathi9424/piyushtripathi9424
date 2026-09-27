@@ -2,21 +2,21 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://cloud.layer5.io/user/19831036-9493-4741-8f28-6a9c6a7a51d4?tab=badges&badge=certified-meshery-contributor">
         <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" width="180" />
       </a>
       <br />
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://cloud.layer5.io/user/19831036-9493-4741-8f28-6a9c6a7a51d4?tab=badges&badge=first-design">
         <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="180" />
       </a>
       <br />
     </td>
-    <td align="center" width="33%" style="padding:0;">
-      <div style="width:100%; height:100%; overflow:hidden;">
-        <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/b6af54b21db361952b992a8ac851dca2.jpg" alt="Layer5 and Meshery" width="100%" height="220" style="object-fit:cover; display:block;" />
+    <td align="center" style="padding:0;">
+      <div style="width:420px; height:340px; overflow:hidden;">
+        <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/b6af54b21db361952b992a8ac851dca2.jpg" alt="Layer5 and Meshery" width="100%" height="100%" style="object-fit:cover; display:block;" />
       </div>
     </td>
   </tr>
