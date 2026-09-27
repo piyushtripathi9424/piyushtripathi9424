@@ -20,7 +20,7 @@
     </td>
     <td align="center" style="padding:0;">
       <div style="width:420px; height:340px; overflow:hidden;">
-        <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/b6af54b21db361952b992a8ac851dca2.jpg" alt="Layer5 and Meshery" width="100%" height="100%" style="object-fit:cover; display:block;" />
+        <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/a.jpg" alt="image" width="100%" height="100%" style="object-fit:cover; display:block;" />
       </div>
     </td>
   </tr>
