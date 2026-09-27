@@ -7,14 +7,12 @@
         <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" width="180" />
       </a>
       <br />
-      <sub><b>Certified Meshery Contributor</b></sub>
     </td>
     <td align="center" width="33%">
       <a href="https://cloud.layer5.io/user/19831036-9493-4741-8f28-6a9c6a7a51d4?tab=badges&badge=first-design">
         <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" width="180" />
       </a>
       <br />
-      <sub><b>First Design</b></sub>
     </td>
     <td align="center" width="33%" style="padding:0;">
       <div style="width:100%; height:100%; overflow:hidden;">
