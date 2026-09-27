@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/gojo.jpg" alt="gojo" width="100%" />
+</p>
+
 ## 🎖️ Contributor Recognition
 
 <table align="center">
