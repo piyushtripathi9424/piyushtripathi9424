@@ -26,15 +26,11 @@
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=piyushtripathi9424&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
