@@ -26,6 +26,8 @@
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
