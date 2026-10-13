@@ -2,6 +2,17 @@
   <img src="https://raw.githubusercontent.com/piyushtripathi9424/piyushtripathi9424/main/assests/nbanner.jpg" alt="gojo" width="100%" />
 </p>
 
+<br/>
+
+<!-- TECH STACK DIV -->
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,kubernetes,git,github,figma,linux&perline=6" />
+</div>
+
+<br/>
+<br/>
+
 ## 🎖️ Contributor Recognition
 
 <table align="center">
