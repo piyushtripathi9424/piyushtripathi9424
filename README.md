@@ -8,7 +8,7 @@
 <div align="center">
   <br/>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,kubernetes,git,github,figma,linux&perline=6" />
-</div>
+</div
 
 <br/>
 <br/>
